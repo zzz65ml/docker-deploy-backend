@@ -7,6 +7,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @SpringBootApplication
+// Temporary comment to trigger DeepSource scan
 public class Lab10Application {
 
     public static void main(String[] args) {
